@@ -1,0 +1,59 @@
+header {
+    text-align: center;
+}
+header {
+    font-size: xx-large;
+    font-weight: bold;
+}
+h1 { 
+    border: 10px solid #7c4dff;
+}
+img {
+    margin-bottom: auto;
+}
+body{
+    background-color: blueviolet;
+    margin: 5%;
+    background-attachment: fixed;
+}
+h1{
+    padding: 5%;
+}
+
+h1 {
+    text-size-adjust: 500px;
+    text-transform: uppercase;
+    letter-spacing: normal;
+    background-color: slateblue;
+}
+
+body {
+    text-align: center;
+}
+
+h4 {
+    font-size: xx-large;
+    font-style: italic;
+}
+h5 {
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+}
+html {
+    scroll-behavior: smooth;
+}
+img {
+    -webkit-box-reflect: below;
+    border-image-width: auto;
+    width: 400;
+    height: 200;
+}
+blockquote {
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
